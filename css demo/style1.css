@@ -1,0 +1,62 @@
+/* external css */
+p{
+    height: 350px;
+    width: 600px;
+    background-color:yellow;
+    color:green;
+    text-align: center;
+    text-decoration: solid;
+    text-transform: lowercase;
+    text-overflow: ellipsis;
+    overflow: scroll;
+    text-indent: 10px;
+    border: 10px dashed green ;
+    /* border-top: greenyellow;
+    border-right: red;
+    border-bottom: green;
+    border-right: blue; */
+    margin: 20px 10px 20px 10px;
+    padding: 20px;
+}
+#shadow{
+    text-shadow:5px 20px red;
+    background-color: white;
+    text-overflow: clip;
+    border: 10px dashed rebeccapurple;
+}
+
+div{
+    height: 400px;
+    width: 600px;
+    background-color: blue;
+    color: red;
+    text-align: center;
+    border: 10px dashed black;
+}
+H1{
+    color: aqua;
+    height: 2OOPX;
+    text-align: center;
+    background-color: red;
+}
+#para1{
+    height: 500px;
+    width: 500px;
+    /* background-color: rgb(105, 105, 105); */
+    background-image: url(https://th.bing.com/th/id/OIP.NOH8bBZLrC_5WpwupOJNkwHaEX?pid=ImgDet&rs=1 ) ;
+    color: blanchedalmond;
+    background-color: hsla(234, 75%, 50%, 0.7);
+    opacity: 1;
+    font-size: 16px; /*em */
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-variant-numeric:inherit;
+    font-family: roboto;
+    border-width: 5px;
+    /* border-color: black;
+    border-style: solid;
+    border-radius: 10px; */
+    border: 10px dashed green; /* this is a sortcut of a border */
+
+}
